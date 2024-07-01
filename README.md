@@ -29,6 +29,7 @@ yum install libxkbcommon-x11 xcb-util xcb-util-image xcb-util-keysyms xcb-util-r
 -f, --forced  Принудительная смена пароля
 -w, --window  Запуск в оконном режиме
 ```
+<hr>
 
 Возможно переопределить поведение программы через файл `settings.ini`, расположенный в одной директории с запускаемой программой. <br>
 Возможные настройки:<br>
